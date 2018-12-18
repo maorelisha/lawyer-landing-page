@@ -1,0 +1,49 @@
+.main-talks .img-talks {
+  margin: auto;
+}
+
+.main-talks {
+  margin-bottom: 50px;
+}
+
+.main-talks ul li {
+  width: 15px;
+  height: 15px;
+  background-color: #6f1e51;
+  display: inline-block;
+  margin: 4px;
+  border-radius: 50%;
+}
+
+.main-talks ul .slick-active {
+  opacity: 0.5;
+}
+.main-talks ul li button {
+  opacity: 0;
+}
+
+.arrowBtnL {
+  background-image: url("../images/arrowL.png");
+  background-size: cover;
+  border: none;
+  width: 66px;
+  height: 66px;
+  z-index: 1;
+}
+
+.arrowBtnR {
+  background-image: url("../images/arrowR.png");
+  background-size: cover;
+  border: none;
+  width: 66px;
+  height: 66px;
+  z-index: 1;
+}
+
+[dir="rtl"] .slick-prev {
+  right: -10px;
+}
+
+[dir="rtl"] .slick-next {
+  left: -10px;
+}

@@ -1,0 +1,33 @@
+.main-header {
+  background-image: url("../images/headerback.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.main-header .header-container {
+  color: white;
+  text-align: right;
+  font-size: 24px;
+}
+
+.main-header .header-container .logo {
+  margin: 30px auto;
+}
+
+.main-header .header-container h1 {
+  font-weight: bold;
+}
+
+.main-header .header-container #headerBtn {
+  color: white;
+  background-color: transparent;
+  border: 2px solid white;
+  margin: 20px;
+  outline: none;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.main-header .header-container #headerBtn:hover {
+  background: #6f1e51;
+}

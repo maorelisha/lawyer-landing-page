@@ -1,0 +1,10 @@
+.main-action-item {
+  text-align: right;
+  color: black;
+  padding: 50px;
+}
+
+.main-action-item h3 {
+  color: #6f1e51;
+  font-weight: bold;
+}

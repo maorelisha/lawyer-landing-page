@@ -1,0 +1,32 @@
+.details {
+  text-align: center;
+  background-color: #f5f5f5;
+  padding: 50px;
+  color: black;
+  font-size: 22px;
+}
+
+.details .details-input {
+  /* width: 300px; */
+  height: 70px;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.details #btn {
+  color: white;
+  font-weight: bold;
+  outline: none;
+  border: none;
+  background-color: #6f1e51;
+  text-align: center;
+}
+
+.details .box {
+  padding: 7px;
+}
+
+.details #btn i {
+  color: white;
+  padding: 8px;
+}

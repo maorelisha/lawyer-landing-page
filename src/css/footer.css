@@ -1,0 +1,26 @@
+.main-footer {
+  background-image: url("../images/footer.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.footer-container {
+  text-align: center;
+  overflow: auto;
+  margin: auto;
+  color: white;
+  /* padding: 50px 0; */
+}
+
+.main-footer .footer-container .row .footer-item {
+  padding: 50px 0;
+}
+
+.col-xs-0,
+.col-0,
+.col-sm-0,
+.col-md-0,
+.col-lg-0 {
+  flex: 0 0 0;
+  max-width: 0;
+}

@@ -1,0 +1,20 @@
+.main-qa {
+  background-image: url("../images/qaBack.png");
+  background-size: cover;
+  background-position: center bottom;
+  padding: 100px;
+}
+
+.main-qa .more-qa {
+  color: #6f1e51;
+  font-size: 24px;
+  background-color: transparent;
+  border: 2px solid #6f1e51;
+  outline: none;
+  transition: background-color 0.2s;
+}
+
+.main-qa .btn {
+  margin: 30px auto;
+  cursor: pointer;
+}

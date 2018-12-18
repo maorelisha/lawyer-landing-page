@@ -1,0 +1,25 @@
+.reco-status {
+  color: #747d8c;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+
+.reco-comment {
+  font-size: 22px;
+  margin-top: 30px;
+  padding: 0 80px;
+}
+
+.reco-name {
+  color: #6f1e51;
+  font-size: 28px;
+  margin-top: 30px;
+}
+
+.main-recom {
+  margin: 40px auto;
+}
+
+.main-recom .reco-img img {
+  margin: auto;
+}

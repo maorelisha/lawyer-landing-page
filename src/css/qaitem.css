@@ -1,0 +1,18 @@
+.main-qa-item {
+  text-align: right;
+}
+
+.main-qa-item .num {
+  font-weight: bold;
+  font-size: 36px;
+  color: #6f1e51;
+}
+
+.main-qa-item .question {
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.main-qa-item .answer {
+  font-size: 18px;
+}

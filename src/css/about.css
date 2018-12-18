@@ -1,0 +1,38 @@
+.about-container {
+  margin: 50px auto;
+  text-align: center;
+}
+.about-container .text {
+  margin: auto;
+  display: grid;
+  line-height: normal;
+}
+.about-container strong {
+  font-size: 30px;
+}
+.about-container .row .img {
+  font-size: 22px;
+  text-align: center;
+  margin: auto auto;
+}
+
+.about-container .row #btn {
+  color: #6f1e51;
+  font-size: 24px;
+  background-color: transparent;
+  border: 2px solid #6f1e51;
+  outline: none;
+  transition: background-color 0.2s;
+}
+.about-container #btn:hover {
+  background-color: #6f1e51;
+  color: white;
+  cursor: pointer;
+}
+
+.about-container .text {
+  padding: 30px;
+  margin: auto;
+  text-align: justify;
+  text-justify: inter-word;
+}
